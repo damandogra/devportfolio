@@ -1,17 +1,17 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Daman Dogra",
+  title: "MSc Geomatics Student",
+  description: "Portfolio website of Daman Dogra",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "damandograa@gmail.com",
+    linkedin: "https://www.linkedin.com/in/daman-dogra/",
+    // twitter: "https://x.com/rfitzio",
+    github: "https://github.com/damandogra",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "Experience in 3D reconstruction, point cloud processing, and building geospatial data pipelines. Interested in scalable 3D data workflows.",
+  skills: ["Python", "C++", "PostgreSQL", "POSTGIS", "Docker", "QGIS"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
